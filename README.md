@@ -6,7 +6,7 @@ Simple ESP32 Barcodescanner for Grocy with GM60 scanner
    - consume product from stock
    - add Product to stock
 
-![functions](functions.png)
+![functions](/img/functions.png)
 
 
 ## Setup
@@ -17,7 +17,7 @@ Simple ESP32 Barcodescanner for Grocy with GM60 scanner
 
 ## Settings
 
-![settings](settings.png)
+![settings](/img/settings.png)
 
 ## Hardware
 
@@ -43,4 +43,4 @@ SoftwareSerial.h https://github.com/plerup/espsoftwareserial/
 
 ## circuit diagram
 
-![circuit diagram](circuit.png)
+![circuit diagram](/img/circuit.png)
