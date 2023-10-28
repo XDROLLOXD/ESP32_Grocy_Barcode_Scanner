@@ -4,8 +4,9 @@
 #include <ArduinoJson.h>
 #include <DFRobot_GM60.h>
 DFRobot_GM60_UART gm60;
-
 #include <SoftwareSerial.h>
+
+
 
 //Setup
 
@@ -18,15 +19,15 @@ const char* password = "Password";
 //Your Domain name with URL path or IP address with path
 String serverName = "http://192.168.???.???:9192/";
 
-//Scanned Barcode
-String Barcode = "0";
-
 //Grocy API Key
 String API_key = "Grocy API KEY";
 
 
 
 
+
+//Scanned Barcode
+String Barcode = "0";
 
 HTTPClient http;
 
