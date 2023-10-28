@@ -3,8 +3,8 @@ Simple ESP32 Barcodescanner for Grocy with GM60 scanner
 
 ## functions
    - load barcode and product data form your Grocy server
-   - consume product from stock
    - add Product to stock
+   - consume product from stock
 
 ![functions](/img/functions.png)
 
