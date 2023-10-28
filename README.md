@@ -1,4 +1,4 @@
-# ESP32 Grocy Barcodescanner
+# ESP32 Grocy Barcode Scanner
 Simple ESP32 Barcodescanner for Grocy with GM60 scanner
 
 ## Setup
