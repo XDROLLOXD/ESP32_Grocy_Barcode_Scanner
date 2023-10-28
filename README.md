@@ -17,3 +17,4 @@ DFRobot_GM60 https://github.com/DFRobot/DFRobot_GM60
 
 ## circuit diagram
 
+![circuit diagram](circuit.png)
