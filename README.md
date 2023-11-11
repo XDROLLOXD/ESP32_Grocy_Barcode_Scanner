@@ -1,13 +1,11 @@
 # ESP32 Grocy Barcode Scanner
 Simple ESP32 Barcode Scanner for Grocy with GM60 scanner
 
-## functions
-   - load barcode and product data form your Grocy server
-   - add Product to stock
-   - consume product from stock
+## MQTT Interface
 
-![functions](/img/functions.png)
+(optimized for Homeassistant with auto discovery)
 
+![MQTT-controlls](/img/MQTT-controlls.png)
 
 ## Setup
    1. create a Grocy API-KEY
@@ -49,3 +47,10 @@ SoftwareSerial.h https://github.com/plerup/espsoftwareserial/
 ## circuit diagram
 
 ![circuit diagram](/img/circuit.png)
+
+## functions
+   - load barcode and product data form your Grocy server
+   - add Product to stock
+   - consume product from stock
+
+![functions](/img/functions.png)
