@@ -2,7 +2,7 @@
 Simple ESP32 Barcode Scanner for Grocy with GM60 scanner
 
 
-if you want to learn how to communicate wit Grocy use V1.0.
+if you want to learn how to communicate with Grocy use V1.0.
 
 V2.0 is much more complex and includes an MQTT interface.
 
