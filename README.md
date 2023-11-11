@@ -17,7 +17,7 @@ V2.0 is much more complex and includes an MQTT interface.
    1. create a Grocy API-KEY
    2. Edit the Setup
    3. Wire everytihing
-   4. Upload the .ino File with the Arduino IDE
+   4. Upload the .ino file with the Arduino IDE
 
 ## Settings
 ### V1.0
