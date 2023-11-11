@@ -1,6 +1,7 @@
 # ESP32 Grocy Barcode Scanner
 Simple ESP32 Barcode Scanner for Grocy with GM60 scanner
 
+
 if you want to learn how to communicate wit Grocy use V1.0.
 
 V2.0 is much more complex and includes an MQTT interface.
@@ -54,11 +55,7 @@ ArduinoMqttClient.h https://github.com/arduino-libraries/ArduinoMqttClient (only
 
 ![circuit diagram](/img/circuit.png)
 
-## functions
-
-if you want to learn how to communicate wit Grocy use V1.0.
-
-V2.0 is much more complex and includes an MQTT interface.
+## functions (V1.0)
 
    - load barcode and product data form your Grocy server
    - add Product to stock
