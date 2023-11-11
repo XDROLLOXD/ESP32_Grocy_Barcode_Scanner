@@ -50,6 +50,11 @@ ArduinoMqttClient.h https://github.com/arduino-libraries/ArduinoMqttClient (only
 ![circuit diagram](/img/circuit.png)
 
 ## functions
+
+if you want to learn how to communicate wit Grocy use V1.0.
+
+V2.0 is much more complex and includes an MQTT interface.
+
    - load barcode and product data form your Grocy server
    - add Product to stock
    - consume product from stock
