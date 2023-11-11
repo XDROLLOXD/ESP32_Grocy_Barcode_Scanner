@@ -43,6 +43,7 @@ ArduinoJson.h https://arduinojson.org/?utm_source=meta&utm_medium=library.proper
 
 SoftwareSerial.h https://github.com/plerup/espsoftwareserial/
 
+ArduinoMqttClient.h https://github.com/arduino-libraries/ArduinoMqttClient (only in v2.0)
 
 ## circuit diagram
 
