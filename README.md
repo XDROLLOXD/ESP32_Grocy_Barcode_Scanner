@@ -9,7 +9,7 @@ Simple ESP32 Barcode Scanner for Grocy with GM60 scanner
 
 ## Setup
    1. create a Grocy API-KEY
-   2. Edit the Settings
+   2. Edit the Setup
    3. Wire everytihing
    4. Upload the .ino File with the Arduino IDE
 
