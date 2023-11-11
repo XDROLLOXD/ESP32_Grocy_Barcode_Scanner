@@ -6,9 +6,8 @@
 DFRobot_GM60_UART gm60;
 #include <ArduinoMqttClient.h>
 #include <SoftwareSerial.h>
+#define TX_PAYLOAD_BUFFER_SIZE 2048 //define the Payload size for MQTT messages
 
-//difine the Payload size for MQTT messages
-#define TX_PAYLOAD_BUFFER_SIZE 2048
 
 //Setup
 
